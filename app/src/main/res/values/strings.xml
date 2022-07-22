@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">HOUSE</string>
+    <string name="editText">安樂區</string>
+    <string name="textview3">建物型態 : </string>
+    <string name="textview4">總樓層數 : </string>
+    <string name="textview">區段門牌 : </string>
+    <string name="textview2">建築完成日期 : </string>
+    <string name="textview6">交易總價 : </string>
+    <string name="textview7">屋齡 : </string>
+    <string name="textview5">主要用途 :</string>
+    <string name="textview8">主要建材 :</string>
+    <string name="textview9">土地區段位置 :</string>
+    <string name="textview10">建物分層 :</string>
+    <string name="textview11">建物現況格局 :</string>
+
+    <string name="textview15">有無管理組織 :</string>
+    <string name="textview16">交易單價 :</string>
+    <string name="textview17">車位總價 :</string>
+
+    <string name="textview19">車位面積 :</string>
+    <string name="textview20">車位類別 :</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google">使用Google地圖查看位置</string>
+
+    <string name="show">SHOW</string>
+    <string name="google_map">GOOGLE MAP</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="location_permission_denied">location_permission_denied</string>
+    <string name="permission_required_toast">permission_required_toast</string>
+    <string name="permission_rationale_location">permission_rationale_location</string>
+    <string name="textview21">交易標的 :</string>
+    <string name="textview22">交易年月日 :</string>
+    <string name="textview23">建物移轉總面積 :</string>
+    <string name="textview24">交易棟筆數 :</string>
+    <string name="textview25">土地建物買賣 交易明細</string>
+    <string name="textview26">土 地 資 料</string>
+    <string name="textview27">土地移轉面積 :</string>
+    <string name="textview28">使用分區或編定 :</string>
+    <string name="textview29">建 物 資 料</string>
+    <string name="textview30">建物移轉面積 :</string>
+
+    <string name="country">請點擊選擇/輸入縣市</string>
+    <string name="city">請選擇/輸入鄉鎮市區</string>
+    <string name="edittext">路，街等額外資訊(自由填寫)</string>
+    <string name="myfavorite">我的收藏</string>
+    <string name="button_show">直接查詢</string>
+    <string name="button_show2">地圖查詢</string>
+    <string name="select_all">全選</string>
+    <string name="back">回到表單</string>
+    <string name="choose">收藏選取</string>
+    <string name="deny">取消編輯</string>
+    <string name="all">全選</string>
+    <string name="edit">編輯</string>
+
+
+</resources>
